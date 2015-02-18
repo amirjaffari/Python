@@ -5,7 +5,7 @@ import youtube_dl
 
 USERNAME = ""
 PASSWORD = ""
-user_agent = "Comment Reader 1.0 by /u/crowbell"
+user_agent = "Video Downloader"
 
 r = praw.Reddit(user_agent=user_agent)
 
