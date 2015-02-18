@@ -3,8 +3,8 @@ import os
 import youtube_dl
 
 
-USERNAME = "basharakbar"
-PASSWORD = "2574592"
+USERNAME = ""
+PASSWORD = ""
 user_agent = "Comment Reader 1.0 by /u/crowbell"
 
 r = praw.Reddit(user_agent=user_agent)
