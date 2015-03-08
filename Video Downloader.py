@@ -9,7 +9,7 @@ user_agent = "Video Downloader"
 
 r = praw.Reddit(user_agent=user_agent)
 
-submissions = r.get_subreddit('cringe').get_top(limit=12)
+submissions = r.get_subreddit('').get_top(limit=12)
 
 urls = []
 names=[]
